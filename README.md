@@ -154,10 +154,6 @@ This project provides a user-friendly interface for interacting with the content
 2. Enhance the UI with advanced features (e.g., topic highlighting in answers).
 3. Integrate multilingual support for documents and queries.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
